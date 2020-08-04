@@ -23,8 +23,7 @@
              PartialTypeSignatures,
              TemplateHaskell,
              InstanceSigs,
-             EmptyCase,
-             StandaloneKindSignatures
+             EmptyCase
 #-}
 
 module Language.Grammars.AspectAG.RecordInstances where
