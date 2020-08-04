@@ -48,9 +48,7 @@ build-type:          Simple
 extra-source-files:  ChangeLog.md,
                      LICENSE,
                      examples/ExprExt.hs,
-                     examples/Expr.hs,
                      examples/List.hs,
-                     examples/RepminTHExt.lhs,
                      examples/RepminTH.lhs
 
 
