@@ -95,7 +95,7 @@ library
   -- Other library packages from which modules are imported.
   build-depends:       base >=4.11,
                        containers >= 0.5,
-                       ghc-prim >= 0.6.1,
+                       ghc-prim >= 0.5.3,
                        mtl >= 2.0,
                        poly-rec >=0.7,
                        require >= 0.6.0.0,
